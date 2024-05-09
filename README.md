@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMohamedAakhil
 - 👀 I’m interested in Data Science
-- 📫 You can reach me on Discord - BootesVoid#1214
+- 📫 You can reach me on Discord - `_bootesvoid`
 
 <!---
 AMohamedAakhil/AMohamedAakhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
